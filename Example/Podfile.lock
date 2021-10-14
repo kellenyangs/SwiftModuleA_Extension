@@ -1,0 +1,16 @@
+PODS:
+  - SwiftModuleA_Extension (0.1.0)
+
+DEPENDENCIES:
+  - SwiftModuleA_Extension (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftModuleA_Extension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftModuleA_Extension: 000f5d6b55f93b21291db30fe7c786df883a719a
+
+PODFILE CHECKSUM: 256717b327cd469fffe3031c19cc1e7feb4c7179
+
+COCOAPODS: 1.11.2
